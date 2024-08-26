@@ -40,6 +40,46 @@ To run this project locally:
 
 ![Screenshot 2024-08-26 170854](https://github.com/user-attachments/assets/d4a34c86-e6c7-4703-9698-ace3d775207d)
 
+## **Output Screens**
+
+i)Home Page:
+![image](https://github.com/user-attachments/assets/f1d91aca-bb05-45e1-8b30-826da5ff4ca7)
+![image](https://github.com/user-attachments/assets/2c93fd19-b9a1-461b-a147-4b64a45b0476)
+
+ii)Add Teachers:
+![image](https://github.com/user-attachments/assets/52b71802-948b-4b36-9730-78cefc399d74)
+
+iii)Add Rooms:
+![image](https://github.com/user-attachments/assets/58d0bbaa-ab8f-4869-bc3d-695a1653791b)
+
+iv)Add Timings:
+![image](https://github.com/user-attachments/assets/a8f72a09-3eb8-42bb-a1fa-a8c7603aba7d)
+
+v)Add Courses:
+![image](https://github.com/user-attachments/assets/63d797ab-4213-484e-831a-cd46eacc755c)
+
+vi)View Courses:
+![image](https://github.com/user-attachments/assets/24739e6e-e359-41c4-98cc-652ffd8321be)
+
+vii)View Department:
+![image](https://github.com/user-attachments/assets/4d01bec6-7d5b-4907-ba95-f7fc33228bda)
+
+viii)Add Sections:
+![image](https://github.com/user-attachments/assets/78b27b26-3dba-4e93-add0-9d074dca953c)
+
+ix)Click to Generate Final Time Table:
+![image](https://github.com/user-attachments/assets/877798c4-f9bd-4fc8-a020-2d3105a5caa8)
+
+x)Generate Final Time Table:
+![image](https://github.com/user-attachments/assets/77c46e8c-01fa-4526-822b-ec03851b5021)
+
+![image](https://github.com/user-attachments/assets/b971588e-c2df-4e86-96aa-9879f8632530)
+
+![image](https://github.com/user-attachments/assets/c25cc87d-aed2-4fc1-87aa-15d63750f2aa)
+
+
+##
+
 ## **Future Enhancements**:
 
 Multi-Institution Support: Extend the system to handle multiple institutions within a single deployment.
