@@ -35,26 +35,6 @@ To run this project locally:
 5. **Access the application:** Open http://127.0.0.1:8000 in your browser.
 
 **Project Structure**
-Time-Table-Generation-System/
-│
-├── account/               # Handles user accounts and authentication
-│
-├── assets/                # Contains images, icons, and other media assets
-│
-├── projttgs/              # Main Django project directory with settings and configurations
-│   ├── settings.py        # Project-wide settings and configurations
-│   ├── urls.py            # URL routing for the project
-│   └── wsgi.py            # WSGI configuration for deployment
-│
-├── static/                # Static files (CSS, JS) used across the project
-│
-├── templates/             # HTML templates for rendering web pages
-│
-├── ttgen/                 # Core logic for timetable generation using Genetic Algorithm
-│
-├── manage.py              # Django’s command-line utility for administrative tasks
-├── requirements.txt       # List of dependencies required to run the project
-└── README.md              # Project documentation and usage instructions
 
 
 **Future Enhancements**:
