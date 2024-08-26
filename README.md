@@ -35,7 +35,7 @@ To run this project locally:
 5. **Access the application:** Open http://127.0.0.1:8000 in your browser.
 
 **Project Structure**
-
+![Screenshot 2024-08-26 170854](https://github.com/user-attachments/assets/d4a34c86-e6c7-4703-9698-ace3d775207d)
 
 **Future Enhancements**:
 
