@@ -1,0 +1,38 @@
+{% load static %}
+
+<style>
+
+</style>
+
+<html>
+<head>
+  <title>{% block title %}TimeCraft{% endblock %}</title>
+  <link href="{% static "css/base.css" %}" rel="stylesheet">
+</head>
+<body>
+  <div id="header">
+    <span class="logo" href="{% url 'index' %}" style="color: black;"><b>TimeCraft</b></span>
+    {% if request.user.is_authenticated %}
+      <ul class="menu">
+        <!-- Add your menu items here if needed -->
+      </ul>
+    {% endif %}
+  </div>
+
+  {% if messages %}
+    <ul class="messages">
+      {% for message in messages %}
+        <li class="{{ message.tags }}">
+          {{ message|safe }}
+          <a href="#" class="close">x</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  <div id="content">
+    {% block content %}
+    {% endblock %}
+  </div>
+</body>
+</html>
