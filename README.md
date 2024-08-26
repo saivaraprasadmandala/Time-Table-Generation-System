@@ -82,11 +82,11 @@ x)Generate Final Time Table:
 
 ## **Future Enhancements**:
 
-Multi-Institution Support: Extend the system to handle multiple institutions within a single deployment.
+**Multi-Institution Support:** Extend the system to handle multiple institutions within a single deployment.
 Advanced Conflict Resolution: Implement more sophisticated algorithms for detecting and resolving scheduling conflicts.
 User Roles: Introduce different user roles with varying permissions (e.g., Admin, Teacher, Student).
 
-## **Contributing**
+## **Contribution**
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
 
