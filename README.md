@@ -27,12 +27,14 @@ The **Time Table Generation System (TTGS)** is a web-based application developed
 To run this project locally:
 
 1. **Clone the repository:**
+   
    git clone https://github.com/saivaraprasadmandala/Time-Table-Generation-System.git
+   
    cd Time-Table-Generation-System
-2. **Install the required dependencies:** pip install -r requirements.txt
-3. **Setup the database:** python manage.py migrate
-4. **Run the development server:** python manage.py runserver
-5. **Access the application:** Open http://127.0.0.1:8000 in your browser.
+3. **Install the required dependencies:** pip install -r requirements.txt
+4. **Setup the database:** python manage.py migrate
+5. **Run the development server:** python manage.py runserver
+6. **Access the application:** Open http://127.0.0.1:8000 in your browser.
 
 ## **Project Structure**
 
