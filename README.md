@@ -12,7 +12,7 @@ The **Time Table Generation System (TTGS)** is a web-based application developed
 - **User-Friendly Interface:** Simple and intuitive UI for administrators to input data and manage the timetable generation process.
 - **Constraint Handling:** Accounts for multiple constraints like teacher availability, room capacity, and course conflicts.
 - **Customizable:** Easily adaptable to different institution requirements.
-- **Conflict Detection:** Automatically detects and highlights scheduling conflicts.
+
 
 ## **Technology Stack**
 
