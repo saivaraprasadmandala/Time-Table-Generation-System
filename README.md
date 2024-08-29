@@ -70,7 +70,7 @@ viii)Add Sections:
 ix)Click to Generate Final Time Table:
 ![image](https://github.com/user-attachments/assets/877798c4-f9bd-4fc8-a020-2d3105a5caa8)
 
-x)Generate Final Time Table:
+x)Generated Final Time Table:
 ![image](https://github.com/user-attachments/assets/77c46e8c-01fa-4526-822b-ec03851b5021)
 
 ![image](https://github.com/user-attachments/assets/b971588e-c2df-4e86-96aa-9879f8632530)
