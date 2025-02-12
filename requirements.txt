@@ -1,4 +1,5 @@
 ChatterBot==1.0.1
 Django==3.0.1
 xhtml2pdf==0.2.13
-reportlab==3.6.11
+reportlab>=4.0.4
+
