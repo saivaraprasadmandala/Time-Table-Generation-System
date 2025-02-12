@@ -34,7 +34,7 @@ To run this project locally:
    ```
 3. **Install the required dependencies:**
 ```bash
- pip install -r requirements.txt
+ pip install -r requirements1.txt
 ```
 3. **Setup the database:**
 ```bash
