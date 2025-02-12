@@ -50,4 +50,4 @@ tzlocal==5.2
 uritools==4.0.3
 urllib3==2.2.3
 webencodings==0.5.1
-xhtml2pdf==0.2.5
+xhtml2pdf==0.2.8
